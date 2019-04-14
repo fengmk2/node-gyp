@@ -32,7 +32,7 @@
     "request": "2",
     "rimraf": "2",
     "semver": "~2.2.1",
-    "tar": "0",
+    "tar": "4.4.2",
     "which": "1"
   },
   "engines": {
