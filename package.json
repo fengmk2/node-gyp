@@ -23,7 +23,7 @@
   "dependencies": {
     "glob": "3",
     "graceful-fs": "2",
-    "fstream": "0",
+    "fstream": "1.0.12",
     "minimatch": "0",
     "mkdirp": "0",
     "nopt": "2",
@@ -32,7 +32,7 @@
     "request": "2",
     "rimraf": "2",
     "semver": "~2.2.1",
-    "tar": "0",
+    "tar": "1.0.0",
     "which": "1"
   },
   "engines": {
